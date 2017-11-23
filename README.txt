@@ -1,1 +1,1 @@
-3D_Scanner 
+3D_Scanner Project 
