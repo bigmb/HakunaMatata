@@ -1,1 +1,2 @@
-3D_Scanner Project 
+
+3D_Scanner Project C++
