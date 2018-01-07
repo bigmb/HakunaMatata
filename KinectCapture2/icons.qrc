@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/kinect.png</file>
+        <file>img/point_cloud.png</file>
+        <file>img/power_off.png</file>
+        <file>img/mesh.png</file>
+        <file>img/shutter.png</file>
+    </qresource>
+</RCC>
