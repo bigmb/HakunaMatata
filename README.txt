@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](HakunaMatata/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/bigmb/HakunaMatata/blob/master/LICENSE)
 
 3D_Scanner Project
 
