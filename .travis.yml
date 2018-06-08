@@ -1,3 +1,8 @@
 language: c++
 c++: 
-  5.0.2
+  - 5.0.2
+before_script :
+  - composer install --no-interaction
+ 
+ script: 
+  - HakunaMatata/Project_c++/main.cpp
