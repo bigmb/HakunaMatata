@@ -1,11 +1,9 @@
-language: c++
+language: cpp
 c++: 
   - 5.0.2
-
-before_script :
-  - composer install --no-interaction
  
  script: 
+  - cmake
+  - cmake --build . -- -j2
   - HakunaMatata/Project_c++/main.cpp
 
-script: make
