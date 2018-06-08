@@ -1,8 +1,14 @@
 language: c++
 c++: 
   - 5.0.2
+
+os:
+   - Windows
+
 before_script :
   - composer install --no-interaction
  
  script: 
   - HakunaMatata/Project_c++/main.cpp
+
+script: make
