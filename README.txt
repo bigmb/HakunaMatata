@@ -1,6 +1,7 @@
 
 3D_Scanner Project
 
+#add travis support
 
 This project is developed in C++, with the use of the OpenCV and PCL libraries. 
 
