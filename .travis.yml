@@ -2,12 +2,8 @@ language: cpp
 c++: 
   - 5.0.2
  
-addons:
-  apt:
-    packages:
-      - g++-5
  
 script: 
-  - CXX=/usr/bin/g++-5 CC=/usr/bin/gcc-5 cmake .
+  - cmake
   - cmake --build . -- -j2
 
