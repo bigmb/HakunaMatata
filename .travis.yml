@@ -5,5 +5,4 @@ c++:
  script: 
   - cmake
   - cmake --build . -- -j2
-  - HakunaMatata/Project_c++/main.cpp
 
